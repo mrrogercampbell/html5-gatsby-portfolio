@@ -1,36 +1,36 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Identity', // <title>
+  siteTitle: 'Roger Campbell II Portfolio', // <title>
   manifestName: 'Identity',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/img/website-icon.png',
+  manifestIcon: 'src/assets/img/astronaut-helmet.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Anubhav Srivastava',
-  heading: 'Web Developer',
+  authorName: 'Roger Campbell',
+  heading: 'Software Engineer',
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/rc1336',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/RogerCampbellI3',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      icon: 'fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/rc1336/',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:rc1336@gmail.com',
     },
   ],
 };
