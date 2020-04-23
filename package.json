@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-identity",
+  "name": "roger-campbell-ii-portfolio",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Identity by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-identity.git"
+    "url": "https://github.com/rc1336/html5-gatsby-portfolio"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Roger Campbell",
+    "email": "rc1336@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -42,7 +42,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-identity/issues"
+    "url": "https://github.com/rc1336/html5-gatsby-portfolio"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-identity#readme"
+  "homepage": "https://github.com/rc1336/html5-gatsby-portfolio"
 }
