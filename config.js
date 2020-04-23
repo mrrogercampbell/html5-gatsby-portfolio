@@ -1,14 +1,14 @@
 module.exports = {
   siteTitle: 'Roger Campbell II', // <title>
   manifestName: 'Identity',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/astronaut-helmet.png',
   // pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Roger Campbell',
+  authorName: 'Roger Campbell II',
   heading: 'Software Engineer',
   // social
   socialLinks: [
