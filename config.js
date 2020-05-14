@@ -18,11 +18,6 @@ module.exports = {
       url: 'https://github.com/rc1336',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/RogerCampbellI3',
-    },
-    {
       icon: 'fa-linkedin',
       name: 'LinkedIn',
       url: 'https://www.linkedin.com/in/rc1336/',
