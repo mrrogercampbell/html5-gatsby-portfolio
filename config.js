@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/astronaut-helmet.png',
   // pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Roger Campbell II',
-  heading: 'Software Engineer',
+  heading: 'Software Engineer | Activist',
   // social
   socialLinks: [
     {
@@ -23,9 +23,19 @@ module.exports = {
       url: 'https://www.linkedin.com/in/rc1336/',
     },
     {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:roger@gemstack.io',
+      icon: 'fa-twitter',
+      name: 'Twitter',
+      url: 'https://twitter.com/MrRogerCampbell',
     },
+    {
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/mrrogercampbell/',
+    },
+    // {
+    //   icon: 'fa-envelope-o',
+    //   name: 'Email',
+    //   url: 'mailto:roger@gemstack.io',
+    // },
   ],
 };
