@@ -6,6 +6,14 @@ module.exports = {
     title: config.siteTitle,
   },
   plugins: [
+    // {
+    //   resolve: `gatsby-plugin-material-ui`,
+    //   options: {
+    //     stylesProvider: {
+    //       injectFirst: true,
+    //     },
+    //   },
+    // },
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,

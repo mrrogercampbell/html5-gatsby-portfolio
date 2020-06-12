@@ -25,7 +25,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:rc1336@gmail.com',
+      url: 'mailto:roger@gemstack.io',
     },
   ],
 };
