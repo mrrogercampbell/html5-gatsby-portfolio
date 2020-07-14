@@ -15,12 +15,12 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/rc1336',
+      url: 'https://github.com/mrrogercampbell',
     },
     {
       icon: 'fa-linkedin',
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/rc1336/',
+      url: 'https://www.linkedin.com/in/mrrogercampbell/',
     },
     {
       icon: 'fa-twitter',
